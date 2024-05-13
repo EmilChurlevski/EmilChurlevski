@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmilChurlevski
 - 👀 I’m interested in Software Testing 
-- 🌱 I’m currently learning Selenium WebDriver with Java + Frameworks 
+- 🌱 Learning different tools for software testing is what makes this job fun
 - 💞️ I’m looking to collaborate on any Software Testing project
 - 📫 How to reach me -> churlevski@icloud.com
 
